@@ -65,9 +65,6 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 
 ---
 
-## Tech Stack Cloud
-
----
 
 ## Tech Stack Cloud
 
@@ -88,7 +85,6 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 </p>
 
 
-  
 ---
 
 ## Connect With Me
