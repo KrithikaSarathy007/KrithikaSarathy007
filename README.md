@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Krithika Sarathy</h1>
+<h1 align="left">Hi, I'm Krithika Sarathy</h1>
 <h3 align="left">Engineering Student | Learning and Building | AI Tools | Problem Solving</h3>
 
 ---
