@@ -5,9 +5,7 @@
 
 ## About Me
 
-An explorative individual interested in software development and emerging technologies. Participated in multiple hackathons and was selected among the Top 10 teams in competitions with 200–500+ teams. Interested in exploring AI tools, prompt engineering, and new ways of solving problems. Also interested in the telecom domain and open to learning and exploring new opportunities.
-  
-Currently focusing on improving problem-solving skills and building real-world projects.
+An explorative individual interested in software development and emerging technologies. Currently working on improving problem-solving skills consistently and building real-world projects as part of my placement preparation. Interested in exploring AI tools, prompt engineering, and different approaches to solving problems. Also curious about the telecom domain and open to learning new technologies. Participated in multiple hackathons and was selected among the Top 10 teams in competitions with 200–500+ teams.
 
 ---
 
