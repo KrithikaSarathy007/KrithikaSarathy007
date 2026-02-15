@@ -47,7 +47,7 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 - MySQL
 
 **Tools**
-- Git, GitHub
+- GitHub
 - VS Code
 
 **Domains**
@@ -68,7 +68,6 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=red" />
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=orange" />
 </p>
