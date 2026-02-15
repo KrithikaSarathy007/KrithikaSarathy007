@@ -99,6 +99,5 @@ An explorative individual interested in software development and emerging techno
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/krithika-sarathy-90a880337/)  
-[GitHub](https://github.com/KrithikaSarathy007)  
-[Email](mailto:krithikakameshwari06@gmail.com)
+[GitHub](https://github.com/KrithikaSarathy007) 
 
