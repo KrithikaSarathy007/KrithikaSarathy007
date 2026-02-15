@@ -46,4 +46,32 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 | Integrated Track Monitoring System (ITMS) | Contactless track monitoring system for Indian Railways | IoT, Sensors, Embedded Systems |
 | Face Recognition Door Lock System | Door access control using face recognition | Python, OpenCV, Machine Learning |
 
+---
+
+## Skills & Tools
+
+**Programming Languages**
+- C++
+- Python
+- Java
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Database**
+- MySQL
+
+**Tools**
+- Git, GitHub
+- VS Code
+
+**Domains**
+- IoT and Embedded Systems
+- Computer Vision (OpenCV)
+
+**Core Strengths**
+- Data Structures and Algorithms
+- Problem Solving
 
