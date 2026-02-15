@@ -36,4 +36,14 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 - Member of Google Developer Student Club (GDSC)
 - Improving logical thinking and coding consistency
 
+---
+
+## Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| Smart Green Corridor System | Emergency ambulance route optimization and alert system | HTML, CSS, JavaScript, MySQL |
+| Integrated Track Monitoring System (ITMS) | Contactless track monitoring system for Indian Railways | IoT, Sensors, Embedded Systems |
+| Face Recognition Door Lock System | Door access control using face recognition | Python, OpenCV, Machine Learning |
+
 
