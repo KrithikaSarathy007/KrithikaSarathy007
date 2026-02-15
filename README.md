@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Krithika Sarathy</h1>
-<h3 align="left">2nd Year Engineering Student | DSA + Projects | Placement Focused 🚀</h3>
+<h3 align="left">Engineering Student | DSA + Projects | Placement Focused</h3>
 
 ---
 ## About Me
@@ -22,11 +22,13 @@ Currently focusing on improving problem-solving skills and building real-world p
 
 ## Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| Smart Green Corridor System | Emergency ambulance route optimization and alert system | HTML, CSS, JavaScript, MySQL |
-| Integrated Track Monitoring System (ITMS) | Contactless track monitoring system for Indian Railways | IoT, Sensors, Embedded Systems |
-| Face Recognition Door Lock System | Door access control using face recognition | Python, OpenCV, Machine Learning |
+| Project | Module | Description | Tech Stack |
+|--------|--------|-------------|------------|
+| [Smart Green Corridor System](https://github.com/KrithikaSarathy007/Pulsar) | App | Emergency ambulance management system with Authority, Driver, and Hospital dashboards. Includes priority service assignment and alerts. | HTML, CSS, JavaScript, MySQL |
+| [Smart Green Corridor System](https://github.com/KrithikaSarathy007/Pulsar) | Simulation | Shortest route simulation for emergency ambulance navigation. | Python, Algorithms |
+| Integrated Track Monitoring System (ITMS)  | System | Contactless track monitoring system for Indian Railways. | IoT, Sensors, Embedded Systems |
+| Face Recognition Door Lock System | System | Door access control using face recognition. | Python, OpenCV, Machine Learning |
+
 
 ---
 
