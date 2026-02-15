@@ -69,9 +69,11 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 
 **Domains**
 - IoT and Embedded Systems
-- Computer Vision (OpenCV)
+
 
 **Core Strengths**
 - Data Structures and Algorithms
 - Problem Solving
+
+  
 
