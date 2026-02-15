@@ -42,6 +42,7 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 - HTML
 - CSS
 - JavaScript
+- Node.Js
 
 **Database**
 - MySQL
@@ -52,7 +53,11 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 
 **Domains**
 - IoT and Embedded Systems
-
+  
+**Python Libraries**
+- NumPy
+- Pandas
+- Matplotlib
 
 **Core Strengths**
 - Data Structures and Algorithms
@@ -62,15 +67,26 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 
 ## Tech Stack Cloud
 
+---
+
+## Tech Stack Cloud
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue" /><br>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow" /><br>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=red" /><br>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange" /><br>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue" /><br>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=orange" /><br>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue" />
+  <br>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=green" />
+  <br>
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
+
 
   
 ---
