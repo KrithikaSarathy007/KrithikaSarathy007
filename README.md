@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Krithika Sarathy</h1>
 <h3 align="left">2nd Year Engineering Student | DSA + Projects | Placement Focused 🚀</h3>
 
-
-
 ---
 ## About Me
 
-I'm a passionate engineering student focused on building strong problem-solving skills and developing real-world projects.  
-Currently preparing for placements and aiming to crack a Product-Based Company role.
+An explorative individual interested in software development and emerging technologies. Participated in multiple hackathons and was selected among the Top 10 teams in competitions with 200–500+ teams. Interested in exploring AI tools, prompt engineering, and new ways of solving problems. Also interested in the telecom domain and open to learning and exploring new opportunities.
+  
+Currently focusing on improving problem-solving skills and building real-world projects.
 
 ---
 
@@ -65,7 +64,6 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
 
 ---
 
-
 ## Tech Stack Cloud
 
 <p align="left">
@@ -84,7 +82,17 @@ Currently preparing for placements and aiming to crack a Product-Based Company r
   <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
+---
 
+## Fun & Personal
+
+- Enjoy watching and playing cricket
+- Recently got interested in F1 and cars
+- Music lover
+- Interested in AI tools and prompt engineering
+- Not perfect at everything, but always tries to improve consistently
+- Likes exploring new technologies and opportunities
+  
 ---
 
 ## Connect With Me
