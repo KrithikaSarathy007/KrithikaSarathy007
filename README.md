@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krithika Sarathy</h1>
+<h3 align="center">2nd Year Engineering Student | DSA + Projects | Placement Focused 🚀</h3>
 
-<!--
-**KrithikaSarathy007/KrithikaSarathy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/KrithikaSarathy007">
+    <img src="https://img.shields.io/badge/GitHub-KrithikaSarathy007-black?style=for-the-badge&logo=github">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:krithikakameshwari06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/krithika-sarathy-90a880337/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krithika-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrithikaSarathy007&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
