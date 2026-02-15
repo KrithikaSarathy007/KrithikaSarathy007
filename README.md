@@ -21,4 +21,19 @@
 </p>
 
 ---
+## About Me
+
+I'm a passionate engineering student focused on building strong problem-solving skills and developing real-world projects.  
+Currently preparing for placements and aiming to crack a Product-Based Company role.
+
+---
+
+## What I'm Currently Doing
+
+- Practicing DSA in C++
+- Building projects to strengthen my resume
+- Learning Python and Web Development
+- Member of Google Developer Student Club (GDSC)
+- Improving logical thinking and coding consistency
+
 
